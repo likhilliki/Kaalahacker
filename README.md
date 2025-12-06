@@ -1,4 +1,4 @@
-# Kaala.hacker - AI-Powered Financial Scam Detection Platform
+# Kaala.hacker - AI-Powered Financial Scam Detection Platform with chatbot assistance
 
 ## Overview
 
